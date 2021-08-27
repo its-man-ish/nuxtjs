@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/testapp/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_8718a0e4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/testapp/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_12b5c086"
+  }
+]
