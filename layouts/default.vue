@@ -48,7 +48,7 @@
       >
         <v-icon>mdi-minus</v-icon>
       </v-btn>
-      <v-toolbar-title v-text="title" />
+      <v-toolbar-title>dJokes</v-toolbar-title>
       <v-spacer />
       <v-btn
         icon
@@ -95,11 +95,28 @@ export default {
       clipped: false,
       drawer: false,
       fixed: false,
+      pages: [
+        {
+          icon:"mdi-chat",
+          title: 'About',
+          to:"/about"
+        }
+      ],
       items: [
         {
           icon: 'mdi-apps',
           title: 'Welcome',
           to: '/'
+        },
+        {
+          icon: 'mdi-cat',
+          title: 'Jokes',
+          to: '/jokes/joke'
+        },
+        {
+          icon:"mdi-chat",
+          title: 'About',
+          to:"/about"
         },
         {
           icon: 'mdi-chart-bubble',

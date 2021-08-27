@@ -1,10 +1,24 @@
 [
   {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_2535ea81"
+  },
+  {
     "name": "inspire",
     "path": "/inspire",
     "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/inspire.vue",
     "chunkName": "pages/inspire",
     "_name": "_40bd844e"
+  },
+  {
+    "name": "jokes-joke",
+    "path": "/jokes/joke",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/jokes/joke.vue",
+    "chunkName": "pages/jokes/joke",
+    "_name": "_3259b3d6"
   },
   {
     "name": "index",
