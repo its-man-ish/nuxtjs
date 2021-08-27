@@ -2,15 +2,15 @@
   {
     "name": "inspire",
     "path": "/inspire",
-    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/testapp/pages/inspire.vue",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/inspire.vue",
     "chunkName": "pages/inspire",
-    "_name": "_8718a0e4"
+    "_name": "_40bd844e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/testapp/pages/index.vue",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_12b5c086"
+    "_name": "_44edc546"
   }
 ]
