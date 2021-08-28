@@ -21,6 +21,13 @@
     "_name": "_3259b3d6"
   },
   {
+    "name": "jokes-id",
+    "path": "/jokes/:id",
+    "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/jokes/_id/index.vue",
+    "chunkName": "pages/jokes/_id/index",
+    "_name": "_b2f55f54"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/home/manish/Desktop/shopify/tutorials/nuxtjs/pages/index.vue",

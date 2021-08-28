@@ -7,6 +7,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _2535ea81 = () => interopDefault(import('../pages/about.vue' /* webpackChunkName: "pages/about" */))
 const _40bd844e = () => interopDefault(import('../pages/inspire.vue' /* webpackChunkName: "pages/inspire" */))
 const _3259b3d6 = () => interopDefault(import('../pages/jokes/joke.vue' /* webpackChunkName: "pages/jokes/joke" */))
+const _b2f55f54 = () => interopDefault(import('../pages/jokes/_id/index.vue' /* webpackChunkName: "pages/jokes/_id/index" */))
 const _44edc546 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -32,6 +33,10 @@ export const routerOptions = {
     path: "/jokes/joke",
     component: _3259b3d6,
     name: "jokes-joke"
+  }, {
+    path: "/jokes/:id",
+    component: _b2f55f54,
+    name: "jokes-id"
   }, {
     path: "/",
     component: _44edc546,
